@@ -3,3 +3,5 @@ git add <file>
 git commit -m "your commit message"
 Hallo Welt !
 Kekse sind lecker
+Git ist schon cool 
+wie waren noch mal die Codes fuer Git ?
