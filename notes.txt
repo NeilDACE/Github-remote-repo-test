@@ -7,3 +7,4 @@ Git ist schon cool
 wie waren noch mal die Codes fuer Git ?
 so langsam verstehe ich git...
 git reset --soft HEAD~1
+haha
